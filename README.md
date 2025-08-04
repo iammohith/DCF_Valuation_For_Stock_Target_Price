@@ -1,4 +1,4 @@
-# DCF_Valuation_For_Stock_Target_Price
+# DCF Valuation For Calculating Stock Target Price to BUY
 
 **A robust, professional-grade Python CLI tool for Discounted Cash Flow (DCF) stock valuation.**  
 This tool provides comprehensive, transparent, and customizable DCF analysis for both casual investors and financial professionals.
@@ -23,7 +23,7 @@ This tool provides comprehensive, transparent, and customizable DCF analysis for
 ## 🗂️ Folder Structure
 
 ```
-dcf_valuation/
+DCF_Valuation_For_Stock_Target_Price/
 │
 ├── dcf/
 │   ├── __init__.py
