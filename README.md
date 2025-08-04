@@ -211,5 +211,7 @@ A: Yes! Import modules from `dcf/` into your own scripts for custom workflows.
 Maintainer: [Mohith Sai Gorla](https://www.linkedin.com/in/mohith-sai-gorla-75930318b/)
 
 ---
+## 🤝 Contributing
 
+PRs and issues welcome!
 Happy Valuing! 🚀
