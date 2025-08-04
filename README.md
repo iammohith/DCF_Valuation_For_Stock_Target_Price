@@ -201,9 +201,6 @@ For questions, open an issue or contact the maintainer.
 **Q: Why does the tool sometimes use Net Income instead of FCF?**  
 A: If Free Cash Flow is missing, we fall back to Operating Cash Flow minus CapEx, then Net Income as a last resort. Any fallback is clearly reported in the output.
 
-**Q: Can I run this for non-US tickers?**  
-A: Yes! The tool detects currency from the ticker and reports all numbers in that currency.
-
 **Q: Can I use this as a Python library?**  
 A: Yes! Import modules from `dcf/` into your own scripts for custom workflows.
 
@@ -211,7 +208,7 @@ A: Yes! Import modules from `dcf/` into your own scripts for custom workflows.
 
 ## 📬 Contact
 
-Maintainer: [Mohith Sai Gorla](mohithsaigorla4@email.com)
+Maintainer: [Mohith Sai Gorla](https://www.linkedin.com/in/mohith-sai-gorla-75930318b/)
 
 ---
 
